@@ -2,6 +2,7 @@ import React from "react";
 
 import { Form, Input, Button, Label, Alert } from "reactstrap";
 
+// Search Asteroid form
 const SearchAsteroid = props => {
   const {
     asteroidId,

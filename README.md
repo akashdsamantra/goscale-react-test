@@ -14,4 +14,9 @@ You will also see any lint errors in the console.
 
 ## Dependencies used
 * axios
-* reactstrap (npm package for bootstrap)
+* reactstrap
+* bootstrap
+
+## Error Handling
+* When asteroid does not exist, it will display "Invalid asteroid id".
+* In case of other errors, it will display "Something went wrong."
